@@ -1,0 +1,6 @@
+{
+  "name": "PassMeter AI - In-Browser AI Password Strength Predictor",
+  "description": "Student cybersecurity project predicting password strength using a hybrid Bi-LSTM neural network and heuristic pattern features entirely in the browser.",
+  "requestFramePermissions": ["clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
